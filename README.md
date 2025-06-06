@@ -94,15 +94,15 @@
       </ol>
     </section>
 
-    <section id="contacto">
-      <h2>Contacto</h2>
-      <p>¿Quieres saber más o necesitas asesoría personalizada? Escríbenos a:</p>
-      <p><strong>Email:</strong> contacto@nutricionconsciente.com</p>
+    <section id="Y recuerda..">
+      <h2>Y recuerda... </h2>
+      <p>¿que para lograr una buena nutrición es muy importante escuchar a tu cuerpo, mantener una alimentación equilibrada, hidratarte adecuadamente y cultivar una relación positiva con la comida. No se trata de perfección, sino de conciencia y constancia. a:</p>
+      <p><strong>equipo:</strong> carlos, keyla y bethzabe</p>
     </section>
   </div>
 
   <footer>
-    <p>&copy; 2025 Nutrición Consciente. Todos los derechos reservados.</p>
+    <p>&copy; 2025 Nutrición Consciente: alcanza una buena nutrición.</p>
   </footer>
 </body>
 </html>
